@@ -8,6 +8,9 @@ To play the game, simply open the link <a href="https://mohdriyaan.github.io/sna
 
 <h2>How To Play</h2>
 
+![image](https://github.com/user-attachments/assets/ce7485a5-d724-4a48-8f38-7cb8405a0a1d)
+
+
 The objective of the game is to eat as many apples as possible without colliding with the walls or the snake's own body. As the snake eats more apples, it will grow in length and move faster.
 
 You can control the direction of the snake using the arrow keys on your keyboard:
@@ -24,6 +27,7 @@ You can control the direction of the snake using the arrow keys on your keyboard
   <li>CSS</li>
   <li>JavaScript</li>
 </ul>
+
 
 <h2>Acknowledgements</h2>
 
